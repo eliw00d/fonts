@@ -1,24 +1,24 @@
 @font-face {
     font-family: "MesloLGS NF";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf") format('truetype');
+}
+@font-face {
+    font-family: "MesloLGS NF";
+    font-weight: normal;
+    font-style: italic;
+    src: url("https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Italic.ttf") format('truetype');
+}
+@font-face {
+    font-family: "MesloLGS NF";
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf") format('truetype');
+}
+@font-face {
+    font-family: "MesloLGS NF";
     font-weight: bold;
     font-style: italic;
-    src: local("MesloLGS NF Bold Italic"),
-         url(/usr/local/share/fonts/MesloLGS\ NF\ Bold\ Italic.ttf);
-}
-@font-face {
-    font-family: "MesloLGS NF";
-    font-style: italic;
-    src: local("MesloLGS NF Italic"),
-         url(/usr/local/share/fonts/MesloLGS\ NF\ Italic.ttf);
-}
-@font-face {
-    font-family: "MesloLGS NF";
-    font-weight: bold;
-    src: local("MesloLGS NF Bold"),
-         url(/usr/local/share/fonts/MesloLGS\ NF\ Bold.ttf);
-}
-@font-face {
-    font-family: "MesloLGS NF";
-    src: local("MesloLGS NF Regular"),
-         url(/usr/local/share/fonts/MesloLGS\ NF\ Regular.ttf);
+    src: url("https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold%20Italic.ttf") format('truetype');
 }
